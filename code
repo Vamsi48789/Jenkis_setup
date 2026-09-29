@@ -3,3 +3,5 @@
     https://pkg.jenkins.io/rpm-stable/jenkins.repo
   yum install jenkins -y
   systemctl start jenkins
+
+access the gui following publicIP:8080
